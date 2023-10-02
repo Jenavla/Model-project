@@ -1,0 +1,27 @@
+Stap 1
+V0: 15 V
+Vdrive: 1.5 V
+l_drive: 200 micrometer
+d_drive: 2 micrometer
+w: 3 micrometer
+N_drive: 100
+
+Stap 2
+m_drive: 4.3 microgram
+k_drive: 0.3820 N/m
+gamma_drive: 8.1053e-07 kg/s
+
+Stap 3
+Omega: 10 rad/min
+
+Stap 4
+m_sense: 5.16 microgram
+k_sense: 1.8334 N/m
+gamma_sense: 1.945e-06 kg/s
+
+Stap 5
+l_sense: 200 micrometer
+d_sense: 2 micrometer
+w: 3 micrometer
+N_sense: 40
+Vdc: 15 V
